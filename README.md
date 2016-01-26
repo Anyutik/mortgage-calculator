@@ -1,9 +1,5 @@
-# Basic Project
+# mortgage calculator
 
- Basic Java Maven Project Structure
-
- * QA
- * Java
- * Maven
+application calculates the mortgage of the house
 
  [Anna Antonyan](http://sqasolution.com)
